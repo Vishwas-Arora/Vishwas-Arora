@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <br>Contributing to the proactive enhancement of the cyber security framework as an intern with KPMG.<br>👯 I’m looking to collaborate on: <br>Fullstack projects.<br>🌱 I’m currently learning: <br>Advanced AWS Services.<br>💬 Ask me about:<br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+🔭 I’m currently working on: <br>Contributing to the proactive enhancement of the cyber security framework as an Analyst with KPMG.<br>👯 I’m looking to collaborate on: <br>Fullstack projects.<br>🌱 I’m currently learning: <br>Advanced AWS Services.<br>💬 Ask me about:<br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
 
 
 ## 🌐 Socials:
